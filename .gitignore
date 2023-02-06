@@ -1,0 +1,97 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Cinema Room Manager/*
+!/Cinema Room Manager/task/
+/Cinema Room Manager/task/*
+!/Cinema Room Manager/task/src
+
+# Project exclude paths
+/Topics/Array/Declarations/out/
+/Topics/Array/Initializing an array of characters/out/
+/Topics/Array/Initializing an array of integers/out/
+/Topics/Array/Theory/out/
+/Topics/Arrays as parameters/Adding values/out/
+/Topics/Arrays as parameters/How to invoke the method/out/
+/Topics/Arrays as parameters/Statements/out/
+/Topics/Arrays as parameters/Theory/out/
+/Topics/Conditional statement/Check a number is positive/out/
+/Topics/Conditional statement/Chocolate/out/
+/Topics/Conditional statement/Healthy sleep/out/
+/Topics/Conditional statement/The army of units/out/
+/Topics/Conditional statement/Theory/out/
+/Topics/Conditional statement/Triangle/out/
+/Topics/Declaring a method/Division/out/
+/Topics/Declaring a method/Greatest common divisor/out/
+/Topics/Declaring a method/Method signature/out/
+/Topics/Declaring a method/Syntactically correct declarations/out/
+/Topics/Declaring a method/The sign of a number/out/
+/Topics/Declaring a method/Theory/out/
+/Topics/Functional decomposition/Decompose a math function/out/
+/Topics/Functional decomposition/Roots of quadratic equation/out/
+/Topics/Functional decomposition/Theory/out/
+/Topics/Functional decomposition/Why decompose a program/out/
+/Topics/Increment and decrement/Decrement all/out/
+/Topics/Increment and decrement/Remainder of division/out/
+/Topics/Increment and decrement/Theory/out/
+/Topics/Increment and decrement/What is the result/out/
+/Topics/Increment and decrement/What is the result (1)/out/
+/Topics/Integer types and operations/Arithmetic expression/out/
+/Topics/Integer types and operations/First digit/out/
+/Topics/Integer types and operations/How many nuts each squirrel will get/out/
+/Topics/Integer types and operations/Reading integer numbers/out/
+/Topics/Integer types and operations/Theory/out/
+/Topics/Iterating over arrays/Find the sum/out/
+/Topics/Iterating over arrays/Select loops/out/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/
+/Topics/Iterating over arrays/The minimum value of an array/out/
+/Topics/Iterating over arrays/Theory/out/
+/Topics/Multidimensional array/Create cube/out/
+/Topics/Multidimensional array/Indexing rules/out/
+/Topics/Multidimensional array/Practical applications/out/
+/Topics/Multidimensional array/Printing lengths of nested arrays/out/
+/Topics/Multidimensional array/Rotate a rectangle array/out/
+/Topics/Multidimensional array/Theory/out/
+/Topics/Overview of the basic program/Elements of a program/out/
+/Topics/Overview of the basic program/Hello, Java/out/
+/Topics/Overview of the basic program/Keywords/out/
+/Topics/Overview of the basic program/The Hello World program/out/
+/Topics/Overview of the basic program/Theory/out/
+/Topics/Primitive and reference types/Creating a primitive/out/
+/Topics/Primitive and reference types/Creating a reference type/out/
+/Topics/Primitive and reference types/Statements/out/
+/Topics/Primitive and reference types/Theory/out/
+/Topics/Printing data/Digits from 0 to 9 backwards/out/
+/Topics/Printing data/First, second, third/out/
+/Topics/Printing data/From 0 to 4/out/
+/Topics/Printing data/Printing a magic letter/out/
+/Topics/Printing data/Stars/out/
+/Topics/Printing data/The result of a Tic-Tac-Toe game/out/
+/Topics/Printing data/Theory/out/
+/Topics/Printing data/We need to learn Java/out/
+/Topics/Printing data/What does the code print/out/
+/Topics/Switch statement/Direction/out/
+/Topics/Switch statement/Harry Potter/out/
+/Topics/Switch statement/Shape/out/
+/Topics/Switch statement/Test learners/out/
+/Topics/Switch statement/Theory/out/
+/Topics/The for-loop/Maximum element divisible by four/out/
+/Topics/The for-loop/Statements/out/
+/Topics/The for-loop/The product of numbers from a to b/out/
+/Topics/The for-loop/Theory/out/
+/Topics/The while and do-while loops/Collatz conjecture/out/
+/Topics/The while and do-while loops/Determine the result/out/
+/Topics/The while and do-while loops/The sequence/out/
+/Topics/The while and do-while loops/Theory/out/
